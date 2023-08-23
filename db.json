@@ -10,5 +10,6 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "price": {"success":true,"result":{"metadata":{"column_names":["price"]},"rows":[{"price":"0.00171150240315255742"}]}}
 }
