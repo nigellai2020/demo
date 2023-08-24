@@ -11,5 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "price": {"success":true,"result":{"metadata":{"column_names":["price"]},"rows":[{"price":"0.00171150240315255742"}]}}
+  "price": {"success":true,"result":{"metadata":{"column_names":["price"]},"rows":[{"price":"0.00171150240315255742"}]}},
+  "volume": {"success":true,"result":{"metadata":{"column_names":["volume"]},"rows":[{"volume":3.0184089233220175}]}},
+  "cryptoMetrics": {"success":true,"result":{"metadata":{"column_names":["name","total_supply","circulating_supply","max_supply","price","market_cap","fully_diluted_market_cap"]},"rows":[{"name":"OpenSwap","total_supply":"220000000.000000000000000000","circulating_supply":"26400000.000000000000000000","max_supply":"1000000000.000000000000000000","price":"0.00171150240315255742","market_cap":"45183.663443227515888","fully_diluted_market_cap":"1711502.40315255742"}]}}
 }
